@@ -5,7 +5,7 @@
 	# ./ infrainfo.sh 
 	# follow along the menu
 
-#simple menu driven shell script to to get information about your Linux server Information.
+#Simple menu driven shell script to to get information about your Linux server Information.
 
 
 # Define variables
