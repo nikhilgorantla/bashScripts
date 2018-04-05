@@ -1,5 +1,11 @@
 #!/bin/bash
-#simple menu driven shell script to to get information about your Linux server / desktop Information.
+
+#File infrainfo.sh
+#Exectuing instructons 
+	# ./ infrainfo.sh 
+	# follow along the menu
+
+#simple menu driven shell script to to get information about your Linux server Information.
 
 
 # Define variables
