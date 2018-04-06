@@ -4,7 +4,7 @@
 #Exectuing instructons 
 	# ./pgidlecon.sh 
 
-#Simple script Monitor the postgress idle connections and kill the connections.
+#simple script Monitor the postgress idle connections and kill the connections.
 
 
 
